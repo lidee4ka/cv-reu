@@ -1,0 +1,14 @@
+Эту папку сохраните на компьютер:
+
+  C:\Users\Лидия\Yandex.Disk\Резюме\cv-reu-для-github
+
+Дальше залейте содержимое на GitHub (не сам zip, а файлы внутри):
+
+1. Откройте https://github.com/lidee4ka/cv-reu
+2. Вкладка Code → uploading an existing file
+3. Перетащите все файлы из этой папки: index.html, package.json, src, public и скрытую .github
+   В Проводнике: Вид → Показать → Скрытые элементы
+4. Commit changes, ветка main
+5. Settings → Pages: Source = GitHub Actions, ничего не нажимайте у Jekyll и Static HTML
+
+Сайт: https://lidee4ka.github.io/cv-reu/
